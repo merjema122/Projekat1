@@ -1,0 +1,6 @@
+print ("unesite broj")
+n=input()
+print("unesite rijec")
+rijec=input()
+i=len(rijec)
+print(rijec[int(n):int(i)])
